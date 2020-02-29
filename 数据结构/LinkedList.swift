@@ -146,7 +146,6 @@ extension LinkedListable {
     }
     
     mutating func replaceHeadNode(element: ElementType) {
-        element.next = container.headNode?.next
         container.headNode = element
     }
 }
