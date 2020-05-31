@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3B6295BC2482BBD900284C43 /* 11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6295BB2482BBD900284C43 /* 11.swift */; };
+		3B6295BE2483521100284C43 /* 17.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6295BD2483521100284C43 /* 17.swift */; };
 		3BFCF572247E9F5900E09E5F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFCF571247E9F5900E09E5F /* main.swift */; };
 		3BFCF579247E9F8800E09E5F /* 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFCF578247E9F8800E09E5F /* 3.swift */; };
 		3BFCF57B2482387100E09E5F /* 8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BFCF57A2482387100E09E5F /* 8.swift */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		3B6295BB2482BBD900284C43 /* 11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11.swift; sourceTree = "<group>"; };
+		3B6295BD2483521100284C43 /* 17.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 17.swift; sourceTree = "<group>"; };
 		3BFCF56E247E9F5900E09E5F /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BFCF571247E9F5900E09E5F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3BFCF578247E9F8800E09E5F /* 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 3.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				3B6295BB2482BBD900284C43 /* 11.swift */,
 				3BFCF578247E9F8800E09E5F /* 3.swift */,
 				3BFCF57A2482387100E09E5F /* 8.swift */,
+				3B6295BD2483521100284C43 /* 17.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 				3BFCF57B2482387100E09E5F /* 8.swift in Sources */,
 				3B6295BC2482BBD900284C43 /* 11.swift in Sources */,
 				3BFCF572247E9F5900E09E5F /* main.swift in Sources */,
+				3B6295BE2483521100284C43 /* 17.swift in Sources */,
 				3BFCF579247E9F8800E09E5F /* 3.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
